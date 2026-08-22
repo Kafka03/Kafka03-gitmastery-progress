@@ -212,5 +212,14 @@
     "completed_at": 1787068119.430168,
     "comments": [],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787389148.205833,
+    "completed_at": 1787389153.090315,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
   }
 ]
