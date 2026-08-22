@@ -420,5 +420,14 @@
       "Contents of 'features.md' is not valid at commit with message 'Add the delete feature'! Try again!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787423288.934865,
+    "completed_at": 1787423292.856322,
+    "comments": [
+      "You should be using squash merges for both 'feature-search' and 'feature-delete'"
+    ],
+    "status": "Incomplete"
   }
 ]
