@@ -511,5 +511,14 @@
       "You are missing the 'january-update' tag."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-update",
+    "started_at": 1788342179.301186,
+    "completed_at": 1788342182.208075,
+    "comments": [
+      "Great work! You have successfully updated the tags to point to the correct commits."
+    ],
+    "status": "Completed"
   }
 ]
